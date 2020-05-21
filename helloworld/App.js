@@ -1,5 +1,7 @@
 /**
- * Change-1
+ * Change-2
+ * One more change on another line
+ * Second Chnage on another line
  * Sample React Native App
  * https://github.com/facebook/react-native
  *
@@ -74,7 +76,7 @@ const App = () => {
 
 const styles = StyleSheet.create({
   scrollView: {
-    backgroundColor: Colors.lighter,
+    backgroundColor: 'black',
   },
   engine: {
     position: 'absolute',
